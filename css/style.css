@@ -1,0 +1,36 @@
+/* start story section */
+
+.clear {
+    clear:both;
+}
+.story{
+    background-color: teal;
+}
+.story .story-img { background-color: aqua;
+    width: 25%;
+    
+    float: left;
+}
+
+.story-img img {
+
+    width: 100%;
+
+}
+
+
+.story .story_description{
+ background-color: rgb(33, 33, 122);
+text-align: center;
+width: 30;
+float: left;
+
+}
+
+
+
+
+/* end story section */
+
+
+
